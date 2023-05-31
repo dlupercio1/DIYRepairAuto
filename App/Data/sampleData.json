@@ -1,0 +1,224 @@
+{
+    "results": [
+      {
+        "objectId": "rDkHakOBKP",
+        "Year": 2020,
+        "Make": "Toyota",
+        "Model": "RLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:17.665Z",
+        "updatedAt": "2020-01-27T20:44:17.665Z"
+      },
+      {
+        "objectId": "5OEvsF1R9k",
+        "Year": 2020,
+        "Make": "Acura",
+        "Model": "TLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:17.665Z",
+        "updatedAt": "2020-01-27T20:44:17.665Z"
+      },
+      {
+        "objectId": "9eRGwnViia",
+        "Year": 2020,
+        "Make": "Acura",
+        "Model": "MDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:17.665Z",
+        "updatedAt": "2020-01-27T20:44:17.665Z"
+      },
+      {
+        "objectId": "YZj6RLht79",
+        "Year": 2020,
+        "Make": "Acura",
+        "Model": "RDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:17.665Z",
+        "updatedAt": "2020-01-27T20:44:17.665Z"
+      },
+      {
+        "objectId": "k4x1WAXEZ9",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "MDX Sport Hybrid",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "xiuaACVHIm",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "RLX Sport Hybrid",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "uqBo3T1sHU",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "MDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "HcLCgxYpnA",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "NSX",
+        "Category": "Coupe",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "bOlyekNqwt",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "RDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "r9nUwoh749",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "TLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "mTQ0bSYkrY",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "ILX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "Ob5YiBNNIn",
+        "Year": 2019,
+        "Make": "Acura",
+        "Model": "RLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.044Z",
+        "updatedAt": "2020-01-27T20:44:18.044Z"
+      },
+      {
+        "objectId": "viau0hB7Ia",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "ILX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "JJoNEtHXQ4",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "RLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "3Fep0ntHSg",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "TLX",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "shtDFvCuiL",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "MDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "8D84lJZhZV",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "RLX Sport Hybrid",
+        "Category": "Sedan",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "6Uiz6dMgqS",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "RDX",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "5w6TZeReGG",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "MDX Sport Hybrid",
+        "Category": "SUV",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      },
+      {
+        "objectId": "ne1W06dL3N",
+        "Year": 2018,
+        "Make": "Acura",
+        "Model": "NSX",
+        "Category": "Coupe",
+        "Trim": "Test",
+        "Engine": "test",
+        "createdAt": "2020-01-27T20:44:18.190Z",
+        "updatedAt": "2020-01-27T20:44:18.190Z"
+      }
+    ]
+  }
